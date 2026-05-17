@@ -104,7 +104,7 @@ Currently passionate about building:
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/krishna-mn/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
