@@ -40,7 +40,8 @@ Currently passionate about building:
 
 ### Analytics & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
 </p>
 
 ### Programming & Data
